@@ -1,4 +1,4 @@
-# VTM Dice Simulator
+# VTM Dice Odds Simulator
 
 A command-line simulator for Vampire: The Masquerade 5th Edition dice rolls, written in C++.  
 It calculates the probability of passing a test based on the number of dice, difficulty, and willpower rerolls.
