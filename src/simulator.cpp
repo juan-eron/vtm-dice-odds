@@ -1,4 +1,4 @@
-#include "simulator.hpp"
+#include "../include/simulator.hpp"
 #include <vector>
 #include <random>
 #include <algorithm>

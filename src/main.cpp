@@ -1,4 +1,4 @@
-#include "simulator.hpp"
+#include "../include/simulator.hpp"
 #include <iostream>
 #include <cstdlib>
 #include <string>
